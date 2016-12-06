@@ -16,4 +16,8 @@
 테스트7 BY django
 >>>>>>> 7af6628e60222a377e1cad351c8cdbcc64e2a2cd
 
+<<<<<<< HEAD
 STASH test
+=======
+테스트8 BY django
+>>>>>>> origin/dbranch
