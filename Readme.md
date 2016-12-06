@@ -22,4 +22,5 @@ STASH test
 테스트8 BY django
 >>>>>>> origin/dbranch
 
+hotfix test
 Pull-request
