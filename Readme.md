@@ -15,3 +15,5 @@
 
 테스트7 BY django
 >>>>>>> 7af6628e60222a377e1cad351c8cdbcc64e2a2cd
+
+STASH test
